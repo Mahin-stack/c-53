@@ -1,0 +1,33 @@
+h1{
+color : #f03434 ;
+text-align: center;
+
+}
+
+.header{
+ background-color: #00e640;
+ display : flex;
+justify-content: space-between;
+}
+
+.grid{
+    background-color: #eeee00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color:rebeccapurple;
+}
+a:visited{
+    color:rebeccapurple;
+}
+
+.menu {
+    margin-left: 30px;
+    }
+
+.menu a{
+margin-left: 50px;
+}
